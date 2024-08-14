@@ -1,1 +1,1 @@
-window.location.href="/ComingSoon/";
+window.location.href="/Landing/";
